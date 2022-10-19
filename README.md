@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tayph00n
-- 👀 I’m interested in Automation
+- 👀 I’m interested in automation and overall programming
 - 🌱 I’m currently learning C#
 This Git serves as a place to save my coding excercises
 
