@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tayph00n
+- 👋 Hi, I’m @Tayfun Bolat
 - 👀 I’m interested in automation and overall programming
 - 🌱 I’m currently learning C#
 This here serves as a place to save my coding excercises
